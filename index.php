@@ -43,7 +43,7 @@
     </style>
 </head>
 <body>
-    <h1>ESP32 Sensor Dashboard</h1>
+    <h1>IT29 ESP32 Sensor</h1>
 
     <div class="status-bar">
         <div class="dot offline" id="status-dot"></div>
